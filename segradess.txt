@@ -1,0 +1,67 @@
+#ID,Name,IDREV,NameREV,Question 1,Question 2,Question 3,Question 4,Question 5,Question 6
+24,Andreas,1,Yikes,12,10,13,15,8,15
+24,Andreas,2,Sombrero,20,15,15,12,5,15
+24,Andreas,3,Obama,20,8,20,10,8,15
+24,Andreas,4,Le Buisson,15,5,14,15,8,15
+24,Andreas,5,Happy Little Accidents,15,12,10,15,5,15
+24,Andreas,6,Distracted Disasters,16,10,15,12,10,15
+24,Andreas,7,Light it down,20,10,15,15,15,15
+24,Andreas,8,Disasterous Seven,10,10,15,15,10,15
+24,Andreas,9,Hivey,15,13,15,10,10,15
+24,Andreas,10,One Down,17,15,18,15,12,15
+24,Andreas,11,Disaster blasters,20,15,15,15,8,15
+24,Andreas,12,Eisenhower,10,13,15,15,15,15
+24,Andreas,13,TrueMen and -Women,10,8,10,10,8,15
+24,Andreas,14,DUCK TAPE,12,15,12,15,10,15
+24,Andreas,15,Dora the Explorahh,15,10,17,12,10,15
+24,Andreas,16,Myriad,8,8,7,15,7,15
+24,Andreas,17,Tomatenplukkers,20,15,18,15,12,15
+24,Andreas,18,EnviroGuard,20,12,20,15,12,15
+24,Andreas,19,Xp transport systems,17,15,20,15,12,15
+24,Andreas,20,Lincoln,20,15,17,15,10,15
+24,Andreas,21,khanjee,15,7,10,10,5,15
+24,Andreas,22,Enschaton Averte,10,10,10,10,5,15
+23,Antoine,1,Yikes,7,4,6,5,3,5
+23,Antoine,2,Sombrero,9,4,9,5,4,5
+23,Antoine,3,Obama,7,4,7,4,3,4
+23,Antoine,4,Le Buisson,7,3,6,4,2,4
+23,Antoine,5,Happy Little Accidents,7,4,7,4,3,4
+23,Antoine,6,Distracted Disasters,8,3,7,4,4,4
+23,Antoine,7,Light it down,7,5,8,5,4,5
+23,Antoine,8,Disasterous Seven,7,5,7,4,3,4
+23,Antoine,9,Hivey,9,5,8,5,4,5
+23,Antoine,10,One Down,7,5,8,5,3,5
+23,Antoine,11,Disaster blasters,8,5,8,4,3,5
+23,Antoine,12,Eisenhower,9,4,8,5,4,5
+23,Antoine,13,TrueMen and -Women,8,4,6,4,3,5
+23,Antoine,14,DUCK TAPE,7,5,8,5,4,5
+23,Antoine,15,Dora the Explorahh,9,5,8,3,4,5
+23,Antoine,16,Myriad,7,5,7,4,3,5
+23,Antoine,17,Tomatenplukkers,7,5,7,4,4,5
+23,Antoine,18,EnviroGuard,9,5,8,5,4,5
+23,Antoine,19,Xp transport systems,10,5,9,5,5,5
+23,Antoine,20,Lincoln,9,3,7,4,4,4
+23,Antoine,21,khanjee,5,4,6,3,2,5
+23,Antoine,22,Enschaton Averte,6,4,6,3,3,4
+22,Enschaton Averte,21,khanjee,8,2,7,-1,3,4
+21,khanjee,7,Enschaton Averte,10,4,7,-1,2,-1
+20,Lincoln,5,Happy Little Accidents,9,5,7,-1,2,-1
+19,XP Transport Systems,15,Dora the Explorahh,8,3,8,-1,4,3
+18,EnviroGuard,13,TrueMen and -Women,8,5,9,-1,3,5
+17,Tomatenplukkers,2,Sombrero,9,4,8,-1,2,3
+16,Myriad,9,Hivey,7,4,6,-1,2,-1
+15,dora the explorahh,19,Xp transport systems,8,5,8,-1,2,4
+14,DUCK TAPE,10,One Down,8,4,8,-1,2,4
+13,TrueMen and -Women,18,EnviroGuard,10,5,10,-1,2,-1
+11,Disaster Blasters,1,Yikes,8,3,7,-1,4,4
+10,One Down,14,DUCK TAPE,8,4,7,-1,2,-1
+9,Hivey,16,Myriad,2,4,2,-1,4,-1
+8,Disastrous Seven,3,Obama,8,3,7,-1,3,4
+7,Light it down,4,Le Buisson,10,5,9,-1,3,4
+6,Distracted Disasters,12,Eisenhower,5,4,7,-1,3,5
+5,Happy Little Accidents,20,Lincoln,8,4,8,-1,2,4
+4,Le Buisson,7,Light it down,10,4,8,-1,2,4
+3,Obama,8,Disasterous Seven,9,4,7,-1,2,4
+2,Sombrero,17,Tomatenplukkers,9,4,10,-1,4,-1
+1,Yikes,11,Disaster blasters,9,5,7,-1,3,-1
+12,Eisenhower,6,Distracted Disasters,8,4,9,-1,3,4
